@@ -5,3 +5,4 @@ const usuariosRoutes = Router();
 let usuarios = [];
 
 export default usuariosRoutes;
+
